@@ -10,7 +10,7 @@ To run the program run Login.java. The Username: test and Password: password
 There are multiple places that the new database should be connected in the App.java. 
 I did not have enough time to clean up my code and make it look as nice as I want it 
 but if you look for connection,you will find the places to enter the new database.
-
+![image](https://user-images.githubusercontent.com/63878531/128642907-264a6a30-31fb-4ea8-9ea1-a6f8a7ac2f94.png)
 
 There are three tables shown: Properties, agents and price.
 The ADD, UPDATE,and DELETE buttons will add, update, and delete the properties.
@@ -21,6 +21,7 @@ On the bottom left, Average Square Footage, property count, agent count,
  and average price is recorded based on current data.
 
 When user adds, deletes, or updates the properties database, the property count and average square footage is updated.
+![image](https://user-images.githubusercontent.com/63878531/128642924-9fc354bf-2866-4f67-a2ae-1057b39d9796.png)
 
 Senarios:
 This database is designed for Agents and they will be able to see list of properties, list of agents, and list of prices. 
